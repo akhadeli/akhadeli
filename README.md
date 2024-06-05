@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hey its Abdullah! 👋
+
+Current projects include work with
+- GenAI
+- Cloud
+- Real-time conference/meeting services
 
 <!--
 **akhadeli/akhadeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
